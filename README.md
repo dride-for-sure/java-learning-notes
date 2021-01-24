@@ -5,10 +5,10 @@ This is my personal Java learning diary. Feel free to learn with me, commit your
 
 Content in the making:
 - [Abstraction](/Notes/Abstraction.md)
-- [Arrays](/Notes/Arrays.md)
+- ~ [Arrays](/Notes/Arrays.md)
 - [Autoboxing](/Notes/Autoboxing.md)
 - [Collections](/Notes/Collections.md)
-- [Control Flow](/Notes/Control-Flow.md)
+- √ [Control Flow](/Notes/Control-Flow.md)
 - [Conversion](/Notes/Conversion.md)
 - [Dates](/Notes/Dates.md)
 - [Encapsulation](/Notes/Encapsulation.md)
@@ -17,7 +17,7 @@ Content in the making:
 - [Inheritance & Polymorphism](/Notes/Inheritance-Polymorphism.md)
 - [Inner-Classes](/Notes/Inner-Classes.md)
 - [Interfaces](/Notes/Interfaces.md)
-- [J-Unit Testing](/Notes/J-Unit-Testing.md)
+- √ [J-Unit Testing](/Notes/J-Unit-Testing.md)
 - [JDBC](/Notes/JDBC.md)
 - [Lambda Expressions](/Notes/Lambda-Expressions.md)
 - [Multithreading](/Notes/Multithreading.md)
