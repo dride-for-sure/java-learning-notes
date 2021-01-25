@@ -49,7 +49,7 @@ class SampleClass {
  void sampleMethod(Integer ...num){};
 
  public static void main (String[] args) {
-	this.sampleMethod( 5 ); // invoked sampleMethod(Integer num), weil boxing varargs überstimmt
+  this.sampleMethod( 5 ); // invoked sampleMethod(Integer num), weil boxing varargs überstimmt
  }
 }
 ```
