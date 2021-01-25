@@ -13,7 +13,7 @@ Content in the making:
 - [ ] [Dates](/Notes/Dates.md)
 - [ ] [Enums](Notes/Enums.md)
 - [ ] [Exception Handling](/Notes/Exception-Handling.md)
-- [ ] [Final](/Notes/Final.md)
+- [x] [Final](/Notes/Final.md)
 - [ ] [Generics](/Notes/Generics.md)
 - [ ] [I/O](/Notes/I-O.md)
 - [x] [Inheritance & Aggregation](/Notes/Inheritance-Aggregation.md)   
@@ -33,7 +33,7 @@ Content in the making:
 - [x] [Static](/Notes/Static.md)  
 - [ ] [Streams](/Notes/Streams.md)
 - [ ] [String](/Notes/String.md)
-- [ ] [Super](/Notes/Super.md) 
+- [x] [Super](/Notes/Super.md) 
 - [x] [This](/Notes/This.md) 
 
 Happy coding 🚀
