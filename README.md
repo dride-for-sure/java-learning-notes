@@ -26,7 +26,7 @@ Content in the making:
 - [ ] [Multithreading](/Notes/Multithreading.md)
 - [ ] [Networking](/Notes/Networking.md)
 - [ ] [Optionals](/Notes/Optionals.md)
-- [ ] [Polymorphism](/Notes/Polymorphism.md)
+- [x] [Polymorphism](/Notes/Polymorphism.md)
 - [ ] [Reflection](/Notes/Reflection.md)
 - [ ] [Scanner](/Notes/Scanner.md)
 - [ ] [Spring Boot](/Notes/Spring-Boot.md)
