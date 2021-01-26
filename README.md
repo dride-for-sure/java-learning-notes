@@ -24,6 +24,7 @@ Content in the making:
 - [ ] [JDBC](/Notes/JDBC.md)
 - [ ] [Lambda Expressions](/Notes/Lambda-Expressions.md)
 - [x] [Methods](/Notes/Methods.md)
+- [ ] [Mocking](/Notes/Mocking.md)
 - [ ] [Multithreading](/Notes/Multithreading.md)
 - [ ] [Networking](/Notes/Networking.md)
 - [ ] [Optionals](/Notes/Optionals.md)
@@ -34,7 +35,8 @@ Content in the making:
 - [x] [Static](/Notes/Static.md)  
 - [ ] [Streams](/Notes/Streams.md)
 - [ ] [String](/Notes/String.md)
-- [x] [Super](/Notes/Super.md) 
+- [x] [Super](/Notes/Super.md)
+- [ ] [Ternary](/Notes/Ternary.md)
 - [x] [This](/Notes/This.md)
 
 Happy coding 🚀
