@@ -12,7 +12,7 @@ als das "vergleichsweise" statische `array`.
 Das Collections Framework stellt folgendes zur Verfügung:
 - **Interfaces**
 - **Implementations**
-- **Algorithms:**
+- **Algorithms**
 
 Die Hierarchie des Colletions Frameworks ist wie folgt:
 ![Hierarchy](/Images/collections.png)
@@ -125,13 +125,13 @@ stack.empty(); // false
 ```
 
 ### Queue interface
-(aktuell unspannend...)
+...
 #### PriorityQueue
-(aktuell unspannend...)
+...
 ### Deque interface
-(aktuell unspannend...)
+...
 #### ArrayDeque
-(aktuell unspannend...)
+...
 
 ### Set interface
 Das Set Interface erweitert, wie auch schon das List Interface, das Collection Interface. Es 
@@ -179,19 +179,19 @@ class sampleObject implements Comparable {
  }
  public int compareTo(Object compareObject) {
   // hier muss eine nun eine Vergleichslogik implementiert werden
-	int compared = -2;
-	// das zu vergleichende Objekt wird zum Typ SampleObject umgewandelt
-	SampleObject compareSampleObject = (SampleObject) compareObject;
-	if (this.int == compareSampleObject.getNum()) {
-	 compared = 0;
-	}
-	if (this.int < compareSampleObject.getNum()) {
-	 compared = -1;
-	}
-	if (this.int > compareSampleObject.getNum()) {
-	 compared = 1;
-	}
-	return compared;
+  int compared = -2;
+  // das zu vergleichende Objekt wird zum Typ SampleObject umgewandelt
+  SampleObject compareSampleObject = (SampleObject) compareObject;
+  if (this.int == compareSampleObject.getNum()) {
+   compared = 0;
+  }
+  if (this.int < compareSampleObject.getNum()) {
+   compared = -1;
+  }
+  if (this.int > compareSampleObject.getNum()) {
+   compared = 1;
+  }
+  return compared;
  }
 }
 ```
