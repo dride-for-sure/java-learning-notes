@@ -1,8 +1,24 @@
 # Collections
 
 - [Interfaces](#Interfaces)
-- [Implementations](#Implementations)
-- [Algorithms](#Algorithms)
+	- [Iterator interface](#Iterator-interface)
+	- [Iterable interface](#Iterable interface)
+		- [Collection interface](#Collection-interface)
+			- [List interface](#List-interface)
+				- [ArrayList](#ArrayList)
+				- [LinkedList](#LinkedList)
+				- [Vector](#Vector)
+				- [Stack](#Stack)
+			- [Queue interface](#Queue-interface)
+				- [PriorityQueue](#PriorityQueue)
+			- [Deque interface](#Deque-interface)
+				- [ArrayDeque](#ArrayDeque)
+			- [Set interface](#Set-interface)
+				- [HashSet](#HashSet)
+				- [LinkedHashSet](#LinkedHashSet)
+			- [SortedSet interface](#SortedSet-interface)
+				- [TreeSet](#TreeSet)
+	
 
 Das Collection Framework von Java stellt die Architektur für das Speichern und Manipulieren von 
 Gruppen an Objekten zur Verfügung. Die bereitgestellten Methoden reichen weit über die des 
