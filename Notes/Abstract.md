@@ -1,6 +1,4 @@
 # Abstract
-<<<<<<< HEAD
-=======
 Eine abstrakte `class` wird deklariert mit Hilfe vom Keyword `abstract`. `abstract classes` sind
 ähnlich zu Interfaces. Sie können nicht instanziert werden und können `abstract methods`
 ohne und `methods` mit Implementation enthalten. `abstract methods` müssen in `abstract classes`
@@ -32,4 +30,3 @@ Interfaces:
 - wenn das Verhalten eines Types klar definiert werden soll, ohne sich über die Implementierung 
 	Gedanken machen zu müssen
 - mehrere Interfaces auf einer `class` implementiert werden sollen
->>>>>>> Monday-Refactor

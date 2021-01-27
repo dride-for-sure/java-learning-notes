@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Collections
-=======
 # Collections
 
 - [Interfaces](#Interfaces)
@@ -198,4 +195,3 @@ class sampleObject implements Comparable {
  }
 }
 ```
->>>>>>> Monday-Refactor

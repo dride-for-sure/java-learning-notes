@@ -35,12 +35,9 @@ Content in the making:
 - [x] [Static](/Notes/Static.md)  
 - [ ] [Streams](/Notes/Streams.md)
 - [ ] [String](/Notes/String.md)
-<<<<<<< HEAD
-- [x] [Super](/Notes/Super.md) 
-=======
+- [x] [Super](/Notes/Super.md)
 - [x] [Super](/Notes/Super.md)
 - [ ] [Ternary](/Notes/Ternary.md)
->>>>>>> Monday-Refactor
 - [x] [This](/Notes/This.md)
 
 Happy coding 🚀
